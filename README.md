@@ -1,6 +1,9 @@
 # CrisBoutique
 Work, this app is a full working clothes indexing program. The app connects to an excel data base and its able to update it with new clothes, new prices, new colors, etc...
 
+## Where to download the app?
+https://github.com/juanfranciscocis/CrisBoutique/releases
+
 ## How To Open The Project?
 1. Open your preferred Java IDE, I recomend PyCharm IDEA. 
 2. Download the hole project.
